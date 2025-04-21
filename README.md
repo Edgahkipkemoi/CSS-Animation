@@ -11,7 +11,6 @@ This project demonstrates a smooth **3D rotating loading animation** using pure 
 
 A glowing square flips through 3D space endlessly:
 
-![Preview GIF or Screenshot Placeholder](#)
 
 ---
 
@@ -24,6 +23,7 @@ A glowing square flips through 3D space endlessly:
 ---
 
 🎯 Features
+
 ✨ Clean and minimal 3D animation
 
 💡 Glowing border using box-shadow
@@ -48,10 +48,11 @@ Modify style.css to tweak animation speed, color, or shape.
 
 
 💻 Author
+
 Edgah kipkemoi
-3rd Year Software Development Student at KCA University
-GitHub Profile
-LinkedIn
+[LinkedIn]https://www.linkedin.com/in/edgah-kipkemoi-3797b8257/).
+[GitHub](https://github.com/Edgahkipkemoi)
+
 
 📄 License
 This project is open source and available under the MIT License.
